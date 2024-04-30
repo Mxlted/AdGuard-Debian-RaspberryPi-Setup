@@ -1,1 +1,1 @@
-# AdGuard-Debian-Setup
+# AdGuard-Debian-RaspberryPi-Setup
