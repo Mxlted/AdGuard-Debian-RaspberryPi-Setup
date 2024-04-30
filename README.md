@@ -63,5 +63,5 @@ Replace `<IP_ADDRESS>` with the actual IP address of your Raspberry Pi.
 
 Type `yes` when prompted
 
-This guide should help you set up a Raspberry Pi with Debian 12 for remote management and configuration over SSH. For further customization and configuration, refer to the Debian and Raspberry Pi documentation.
+# This portion should help you set up a Raspberry Pi with Debian 12 for remote management and configuration over SSH. For further customization and configuration, refer to the Debian and Raspberry Pi documentation.
 
