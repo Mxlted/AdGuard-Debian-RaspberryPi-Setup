@@ -16,14 +16,15 @@ This guide provides detailed instructions on how to install Debian 12 on a Raspb
 ### 1. Prepare the Installation Image
 
 - Download and install the **Raspberry Pi Imager** from the official Raspberry Pi website:
-```
-https://www.raspberrypi.com/software/
-```
+
+[https://www.raspberrypi.com/software/](https://www.raspberrypi.com/software/)
+
+
 
 - Obtain the stable Debian image for Raspberry Pi. You can choose from daily or tested images. For this guide, the daily images are used:
-```
-https://raspi.debian.net/daily-images/
-```
+
+[https://raspi.debian.net/daily-images/](https://raspi.debian.net/daily-images/)
+
 
 ### 2. Flash the Debian Image
 
